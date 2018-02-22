@@ -1,7 +1,7 @@
 {
   "name": "philipnewcomer/wpforms-divider-conditional-logic",
   "description": "Adds conditional logic support to Section Divider fields in the WPForms plugin",
-  "license": "GPLv2",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Philip Newcomer",
